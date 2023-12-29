@@ -2273,17 +2273,20 @@ div:not(.paperList) .listItem {
 .chapterCard .innerCardFooter > .cardText:last-child {
   float: right;
 }
-/* Cambiar el logo en el cajón de administración */
-.adminDrawerLogo img {
-    background-image: url('https://raw.githubusercontent.com/Pulgarcit0/SysPasteleria/main/assets/img/logo.png') !important;
-}
+/* Login Page Logo*/
 
-/* Cambiar el icono del logo */
 .imgLogoIcon {
-    background-image: url('https://raw.githubusercontent.com/Pulgarcit0/SysPasteleria/main/assets/img/logo.png') !important;
-}
 
-/* Cambiar la imagen de fondo en la página con el título y el logo */
+content: url(https://en.wikipedia.org/static/images/icons/wikipedia.png) !important; }
+
+/* Main Drawer Mobile Logo*/
+
+.adminDrawerLogo img {
+
+content: url(https://en.wikipedia.org/static/images/icons/wikipedia.png) !important; }
+
+/* Home Page Logo*/
+
 .pageTitleWithLogo {
-    background-image: url('https://raw.githubusercontent.com/Pulgarcit0/SysPasteleria/main/assets/img/logo.png') !important;
-}
+
+background-image: url(https://en.wikipedia.org/static/images/icons/wikipedia.png) !important; }
