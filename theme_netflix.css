@@ -2273,3 +2273,17 @@ div:not(.paperList) .listItem {
 .chapterCard .innerCardFooter > .cardText:last-child {
   float: right;
 }
+/* Cambiar el logo en el cajón de administración */
+.adminDrawerLogo img {
+    background-image: url('https://raw.githubusercontent.com/Pulgarcit0/SysPasteleria/main/assets/img/logo.png') !important;
+}
+
+/* Cambiar el icono del logo */
+.imgLogoIcon {
+    background-image: url('https://raw.githubusercontent.com/Pulgarcit0/SysPasteleria/main/assets/img/logo.png') !important;
+}
+
+/* Cambiar la imagen de fondo en la página con el título y el logo */
+.pageTitleWithLogo {
+    background-image: url('https://raw.githubusercontent.com/Pulgarcit0/SysPasteleria/main/assets/img/logo.png') !important;
+}
