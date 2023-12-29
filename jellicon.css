@@ -1,0 +1,17 @@
+/* Login Page Logo*/
+
+.imgLogoIcon {
+
+content: url(https://en.wikipedia.org/static/images/icons/wikipedia.png) !important; }
+
+/* Main Drawer Mobile Logo*/
+
+.adminDrawerLogo img {
+
+content: url(https://en.wikipedia.org/static/images/icons/wikipedia.png) !important; }
+
+/* Home Page Logo*/
+
+.pageTitleWithLogo {
+
+background-image: url(https://en.wikipedia.org/static/images/icons/wikipedia.png) !important; }
